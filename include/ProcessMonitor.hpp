@@ -1,12 +1,3 @@
-/*
- * ProcessMonitor.hpp - Pure Software System Process & RAM/CPU Inspector (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- *
- * Description:
- * Reads software metrics from standard Linux /proc filesystem (/proc/stat, /proc/meminfo, /proc/self/status)
- * requiring zero physical hardware.
- */
 
 #ifndef PROCESS_MONITOR_HPP
 #define PROCESS_MONITOR_HPP
