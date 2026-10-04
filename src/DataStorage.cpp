@@ -1,8 +1,4 @@
-/*
- * DataStorage.cpp - RAM Hot Tier & POSIX File Cold Tier Implementation (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #include "../include/DataStorage.hpp"
 #include <iostream>
