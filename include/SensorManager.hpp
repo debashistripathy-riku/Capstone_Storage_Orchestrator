@@ -1,8 +1,4 @@
-/*
- * SensorManager.hpp - Pure Software Data Block Generator (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #ifndef SENSOR_MANAGER_HPP
 #define SENSOR_MANAGER_HPP
