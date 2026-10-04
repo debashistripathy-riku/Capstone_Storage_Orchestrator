@@ -1,8 +1,3 @@
-/*
- * DriverInterface.cpp - Linux Virtual Device Driver & Software Interface (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
 
 #include "../include/DriverInterface.hpp"
 #include <fcntl.h>
