@@ -1,8 +1,4 @@
-/*
- * SensorManager.cpp - Pure Software Data Block Generator Implementation (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #include "../include/SensorManager.hpp"
 #include <chrono>
