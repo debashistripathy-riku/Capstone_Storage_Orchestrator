@@ -1,17 +1,3 @@
-/*
- * telemetry_driver.c - Custom Linux Character Device Driver for Hardware Telemetry
- * Author: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- *
- * Concepts Demonstrated:
- * - Linux Kernel Module programming (init_module, cleanup_module)
- * - Character device registration (alloc_chrdev_region, cdev_init)
- * - File operations struct (open, release, read, write, unlocked_ioctl)
- * - Kernel memory allocation (kmalloc, kfree) & Ring Buffer
- * - Kernel-to-User space data copy (copy_to_user, copy_from_user)
- * - Sysfs device attributes (/sys/class/telemetry_class/telemetry_dev/stats)
- * - Spinlock synchronization in kernel space
- */
 
 #include <linux/module.h>
 #include <linux/kernel.h>
