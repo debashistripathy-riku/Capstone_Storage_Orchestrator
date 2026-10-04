@@ -1,8 +1,4 @@
-/*
- * benchmark.cpp - C++ Latency & Throughput Benchmark Utility
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #include "../include/SensorManager.hpp"
 #include "../include/DataStorage.hpp"
