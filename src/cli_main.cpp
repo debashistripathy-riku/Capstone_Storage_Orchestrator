@@ -1,7 +1,4 @@
-/*
- * cli_main.cpp - Interactive CLI client for Storage Orchestrator
- * Debashis Tripathy (2341020048)
- */
+
 
 #include <iostream>
 #include <string>
