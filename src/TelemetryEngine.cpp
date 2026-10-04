@@ -1,8 +1,3 @@
-/*
- * TelemetryEngine.cpp - Storage Orchestrator & System Monitor Implementation (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
 
 #include "../include/TelemetryEngine.hpp"
 #include <iostream>
