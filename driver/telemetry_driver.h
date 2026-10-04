@@ -1,8 +1,4 @@
-/*
- * telemetry_driver.h - Header for Smart Hardware Telemetry Kernel Device Driver
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #ifndef TELEMETRY_DRIVER_H
 #define TELEMETRY_DRIVER_H
