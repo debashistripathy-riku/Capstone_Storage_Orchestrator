@@ -1,6 +1,5 @@
 #!/bin/bash
-# Build script for Storage Orchestrator project
-# Debashis Tripathy (2341020048)
+
 
 set -e
 
