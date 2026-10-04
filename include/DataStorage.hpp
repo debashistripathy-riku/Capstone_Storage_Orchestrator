@@ -1,8 +1,4 @@
-/*
- * DataStorage.hpp - RAM Hot Tier & POSIX File Cold Tier Manager (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #ifndef DATA_STORAGE_HPP
 #define DATA_STORAGE_HPP
