@@ -1,7 +1,3 @@
-/*
- * main.cpp - Entrypoint for Storage Orchestrator daemon
- * Debashis Tripathy (2341020048)
- */
 
 #include "../include/TelemetryEngine.hpp"
 #include "../include/IPCServer.hpp"
