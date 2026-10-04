@@ -1,8 +1,4 @@
-/*
- * TelemetryEngine.hpp - Core Storage Orchestrator & System Monitor (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #ifndef TELEMETRY_ENGINE_HPP
 #define TELEMETRY_ENGINE_HPP
