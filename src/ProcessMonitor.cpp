@@ -1,8 +1,3 @@
-/*
- * ProcessMonitor.cpp - Pure Software System Process & RAM/CPU Inspector (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
 
 #include "../include/ProcessMonitor.hpp"
 #include <fstream>
