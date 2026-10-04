@@ -1,6 +1,4 @@
-# Master Makefile for Multi-Tier Storage Orchestrator & Virtual Storage Engine
-# Student: Debashis Tripathy (Reg No: 2341020048)
-# Course: Wipro COE Capstone Project
+
 
 CXX ?= g++
 CXXFLAGS ?= -std=c++17 -Wall -Wextra -O2 -Iinclude
