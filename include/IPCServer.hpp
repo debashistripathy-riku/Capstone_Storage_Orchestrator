@@ -1,12 +1,4 @@
-/*
- * IPCServer.hpp - POSIX Socket Server for CLI Control & Monitoring (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- *
- * Description:
- * Implements a multithreaded TCP Socket Server allowing interactive CLI
- * applications to connect and execute control commands.
- */
+
 
 #ifndef IPC_SERVER_HPP
 #define IPC_SERVER_HPP
