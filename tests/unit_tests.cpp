@@ -1,8 +1,3 @@
-/*
- * unit_tests.cpp - Automated Unit Test Suite (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
 
 #include "../include/SensorManager.hpp"
 #include "../include/DataStorage.hpp"
