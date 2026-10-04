@@ -1,8 +1,4 @@
-/*
- * IPCServer.cpp - POSIX TCP Socket Server Implementation (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #include "../include/IPCServer.hpp"
 #include <sys/socket.h>
