@@ -1,8 +1,4 @@
-/*
- * DriverInterface.hpp - Linux Device Driver & Software Fallback Interface (C++)
- * Student: Debashis Tripathy (Reg No: 2341020048)
- * Course: Wipro COE Capstone Project
- */
+
 
 #ifndef DRIVER_INTERFACE_HPP
 #define DRIVER_INTERFACE_HPP
