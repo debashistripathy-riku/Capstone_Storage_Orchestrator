@@ -1,6 +1,3 @@
-#!/bin/bash
-# Execution script for Storage Orchestrator project
-# Debashis Tripathy (2341020048)
 
 if [ ! -f "bin/storage_orchestrator" ]; then
     echo "Binaries not found. Building..."
